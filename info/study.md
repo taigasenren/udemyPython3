@@ -16,8 +16,3 @@ section 7
 12/2 23:38-
 
 section 8
-
-test
-test
-test
-test
