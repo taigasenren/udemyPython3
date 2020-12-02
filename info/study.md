@@ -1,3 +1,4 @@
+1周目
 section 1 finish
 
 section 2 finish
