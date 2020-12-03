@@ -13,6 +13,6 @@ section 6 finish
 -12/2 23:26
 
 section 7 
-12/2 23:38-
+12/3
 
-section 8
+section 8 
